@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L07_SimpleTodoPS</string>
+    <string name="edt"></string>
+    <string name="add">ADD</string>
+    <string name="clear">CLEAR</string>
+    <string name="lv"></string>
+</resources>
